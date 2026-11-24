@@ -1,0 +1,11 @@
+__pycache__/
+venv/
+.venv/
+.env
+Online Retail.xlsx
+cleaned_data.csv
+customer_features.csv
+customer_segments.csv
+spending_predictions.csv
+purchase_predictions.csv
+product_recommendations.csv
